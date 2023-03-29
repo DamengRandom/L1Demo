@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD33027329D0495200A86824 /* mySyntaxTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = mySyntaxTest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CD3DA72F29CB087300929D77 /* L1Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = L1Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD3DA73229CB087300929D77 /* L1DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L1DemoApp.swift; sourceTree = "<group>"; };
 		CD3DA73429CB087300929D77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 				CD3DA73429CB087300929D77 /* ContentView.swift */,
 				CD3DA73629CB087400929D77 /* Assets.xcassets */,
 				CD3DA73829CB087400929D77 /* Preview Content */,
+				CD33027329D0495200A86824 /* mySyntaxTest.playground */,
 			);
 			path = L1Demo;
 			sourceTree = "<group>";
